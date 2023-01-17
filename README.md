@@ -38,12 +38,3 @@
 [3]: https://www.linkedin.com/in/vaibhav-singh-324457140/
 [4]: mailto:itsvaibhavsingh7023@gmail.com?subject=[GitHub]%20Source%20Vaibhav%20Singh
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9V12KN4RK4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9V12KN4RK4');
-</script>
