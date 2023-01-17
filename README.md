@@ -11,8 +11,8 @@
 
 - :office: &nbsp;I'm currently working at **Yahoo! Japan**
 - :seedling: &nbsp;I’m currently learning **Kubernetes**
-- :mailbox: &nbsp;Ask me anything on my **[email]([4])**
-- :computer: &nbsp;Connect with me on **[LinkedIn]([3])**
+- :mailbox: &nbsp;Ask me anything on my **[email](mailto:itsvaibhavsingh7023@gmail.com?subject=[GitHub]%20Source%20Vaibhav%20Singh)**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/vaibhav-singh-324457140/)**
 
 <br>
 
