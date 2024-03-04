@@ -9,8 +9,9 @@
   </a>
 </p>
 
-- :office: &nbsp;I'm currently working at **Yahoo! Japan**
-- :seedling: &nbsp;I’m currently learning **Kubernetes**
+- :office: &nbsp;I'm currently working at **Axelspace**
+- :seedling: &nbsp;I’m currently learning **LangChain**
+- :seedling: &nbsp;My topic of interests is **Multi-model Vision**
 - :mailbox: &nbsp;Ask me anything on my **[email](mailto:itsvaibhavsingh7023@gmail.com?subject=[GitHub]%20Source%20Vaibhav%20Singh)**
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/vaibhav-singh-324457140/)**
 
